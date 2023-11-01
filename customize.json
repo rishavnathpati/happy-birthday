@@ -1,6 +1,6 @@
 {
   "greeting": "Heyyooo",
-  "name": "Hambitambaaaaa",
+  "name": "Enter name here",
   "greetingText": "I really like your name btw!",
   "wishText": "May the force be always with you! ;)",
   "imagePath": "img/image.jpg",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "OOOO",
   "wishHeading": "Happy Birthday!!! ",
-  "outroText": "May you be filled with happiness and joy on this special day. May all your dreams come true and have a wonderful year ahead. Lots of medium pizza waiting to be devoured by us. Ar likhte parchia, baaki call e bolchi. Happy Birthday!",
+  "outroText": "May you be filled with happiness and joy on this special day. May all your dreams come true and have a wonderful year ahead. Happy Birthday!",
   "replayText": "Or click here, if you want to watch it again.",
   "outroSmiley": "🎉"
 }
